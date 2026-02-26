@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+
+# Bytecode / cache
+__pycache__/
+*.pyc
+
+# Data & results should not go into git
+../data/
+../results/
+
+# Common generated/large files
+*.csv
+*.zip
+*.log
+*.parquet
+*.pkl
