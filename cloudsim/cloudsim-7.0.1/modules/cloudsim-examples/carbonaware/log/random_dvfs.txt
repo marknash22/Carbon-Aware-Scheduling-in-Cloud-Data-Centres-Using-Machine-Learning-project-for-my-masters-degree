@@ -1,0 +1,906 @@
+Initialising...
+Starting CloudSim version 7.0
+0.0: Broker is starting...
+0.0: Datacenter is starting...
+Entities started.
+0.0: Broker: Cloud Resource List received with 1 datacenter(s)
+0.0: Broker: Trying to Create PowerVm #0 in Datacenter
+0.0: Broker: Trying to Create PowerVm #1 in Datacenter
+0.0: Broker: Trying to Create PowerVm #2 in Datacenter
+0.0: Broker: Trying to Create PowerVm #3 in Datacenter
+0.0: Broker: Trying to Create PowerVm #4 in Datacenter
+0.0: Broker: Trying to Create PowerVm #5 in Datacenter
+0.0: Broker: Trying to Create PowerVm #6 in Datacenter
+0.0: Broker: Trying to Create PowerVm #7 in Datacenter
+0.0: Broker: Trying to Create PowerVm #8 in Datacenter
+0.0: Broker: Trying to Create PowerVm #9 in Datacenter
+0.0: Broker: Trying to Create PowerVm #10 in Datacenter
+0.0: Broker: Trying to Create PowerVm #11 in Datacenter
+0.0: Broker: Trying to Create PowerVm #12 in Datacenter
+0.0: Broker: Trying to Create PowerVm #13 in Datacenter
+0.0: Broker: Trying to Create PowerVm #14 in Datacenter
+0.0: Broker: Trying to Create PowerVm #15 in Datacenter
+0.0: Broker: Trying to Create PowerVm #16 in Datacenter
+0.0: Broker: Trying to Create PowerVm #17 in Datacenter
+0.0: Broker: Trying to Create PowerVm #18 in Datacenter
+0.0: Broker: Trying to Create PowerVm #19 in Datacenter
+0.0: Broker: Trying to Create PowerVm #20 in Datacenter
+0.0: Broker: Trying to Create PowerVm #21 in Datacenter
+0.0: Broker: Trying to Create PowerVm #22 in Datacenter
+0.0: Broker: Trying to Create PowerVm #23 in Datacenter
+0.0: Broker: Trying to Create PowerVm #24 in Datacenter
+0.0: Broker: Trying to Create PowerVm #25 in Datacenter
+0.0: Broker: Trying to Create PowerVm #26 in Datacenter
+0.0: Broker: Trying to Create PowerVm #27 in Datacenter
+0.0: Broker: Trying to Create PowerVm #28 in Datacenter
+0.0: Broker: Trying to Create PowerVm #29 in Datacenter
+0.0: Broker: Trying to Create PowerVm #30 in Datacenter
+0.0: Broker: Trying to Create PowerVm #31 in Datacenter
+0.0: Broker: Trying to Create PowerVm #32 in Datacenter
+0.0: Broker: Trying to Create PowerVm #33 in Datacenter
+0.0: Broker: Trying to Create PowerVm #34 in Datacenter
+0.0: Broker: Trying to Create PowerVm #35 in Datacenter
+0.0: Broker: Trying to Create PowerVm #36 in Datacenter
+0.0: Broker: Trying to Create PowerVm #37 in Datacenter
+0.0: Broker: Trying to Create PowerVm #38 in Datacenter
+0.0: Broker: Trying to Create PowerVm #39 in Datacenter
+0.0: Broker: Trying to Create PowerVm #40 in Datacenter
+0.0: Broker: Trying to Create PowerVm #41 in Datacenter
+0.0: Broker: Trying to Create PowerVm #42 in Datacenter
+0.0: Broker: Trying to Create PowerVm #43 in Datacenter
+0.0: Broker: Trying to Create PowerVm #44 in Datacenter
+0.0: Broker: Trying to Create PowerVm #45 in Datacenter
+0.0: Broker: Trying to Create PowerVm #46 in Datacenter
+0.0: Broker: Trying to Create PowerVm #47 in Datacenter
+0.0: Broker: Trying to Create PowerVm #48 in Datacenter
+0.0: Broker: Trying to Create PowerVm #49 in Datacenter
+0.0: Datacenter.guestAllocator: PowerVm #0 has been allocated to PowerHost #1
+0.0: Datacenter.guestAllocator: PowerVm #1 has been allocated to PowerHost #1
+0.0: Datacenter.guestAllocator: PowerVm #2 has been allocated to PowerHost #3
+0.0: Datacenter.guestAllocator: PowerVm #3 has been allocated to PowerHost #3
+0.0: Datacenter.guestAllocator: PowerVm #4 has been allocated to PowerHost #5
+0.0: Datacenter.guestAllocator: PowerVm #5 has been allocated to PowerHost #5
+0.0: Datacenter.guestAllocator: PowerVm #6 has been allocated to PowerHost #7
+0.0: Datacenter.guestAllocator: PowerVm #7 has been allocated to PowerHost #7
+0.0: Datacenter.guestAllocator: PowerVm #8 has been allocated to PowerHost #9
+0.0: Datacenter.guestAllocator: PowerVm #9 has been allocated to PowerHost #9
+0.0: Datacenter.guestAllocator: PowerVm #10 has been allocated to PowerHost #11
+0.0: Datacenter.guestAllocator: PowerVm #11 has been allocated to PowerHost #11
+0.0: Datacenter.guestAllocator: PowerVm #12 has been allocated to PowerHost #13
+0.0: Datacenter.guestAllocator: PowerVm #13 has been allocated to PowerHost #13
+0.0: Datacenter.guestAllocator: PowerVm #14 has been allocated to PowerHost #15
+0.0: Datacenter.guestAllocator: PowerVm #15 has been allocated to PowerHost #15
+0.0: Datacenter.guestAllocator: PowerVm #16 has been allocated to PowerHost #17
+0.0: Datacenter.guestAllocator: PowerVm #17 has been allocated to PowerHost #17
+0.0: Datacenter.guestAllocator: PowerVm #18 has been allocated to PowerHost #19
+0.0: Datacenter.guestAllocator: PowerVm #19 has been allocated to PowerHost #19
+0.0: Datacenter.guestAllocator: PowerVm #20 has been allocated to PowerHost #21
+0.0: Datacenter.guestAllocator: PowerVm #21 has been allocated to PowerHost #21
+0.0: Datacenter.guestAllocator: PowerVm #22 has been allocated to PowerHost #23
+0.0: Datacenter.guestAllocator: PowerVm #23 has been allocated to PowerHost #23
+0.0: Datacenter.guestAllocator: PowerVm #24 has been allocated to PowerHost #25
+0.0: Datacenter.guestAllocator: PowerVm #25 has been allocated to PowerHost #25
+0.0: Datacenter.guestAllocator: PowerVm #26 has been allocated to PowerHost #0
+0.0: Datacenter.guestAllocator: PowerVm #27 has been allocated to PowerHost #0
+0.0: Datacenter.guestAllocator: PowerVm #28 has been allocated to PowerHost #2
+0.0: Datacenter.guestAllocator: PowerVm #29 has been allocated to PowerHost #2
+0.0: Datacenter.guestAllocator: PowerVm #30 has been allocated to PowerHost #4
+0.0: Datacenter.guestAllocator: PowerVm #31 has been allocated to PowerHost #4
+0.0: Datacenter.guestAllocator: PowerVm #32 has been allocated to PowerHost #6
+0.0: Datacenter.guestAllocator: PowerVm #33 has been allocated to PowerHost #6
+0.0: Datacenter.guestAllocator: PowerVm #34 has been allocated to PowerHost #8
+0.0: Datacenter.guestAllocator: PowerVm #35 has been allocated to PowerHost #8
+0.0: Datacenter.guestAllocator: PowerVm #36 has been allocated to PowerHost #10
+0.0: Datacenter.guestAllocator: PowerVm #37 has been allocated to PowerHost #10
+0.0: Datacenter.guestAllocator: PowerVm #38 has been allocated to PowerHost #12
+0.0: Datacenter.guestAllocator: PowerVm #39 has been allocated to PowerHost #0
+0.0: Datacenter.guestAllocator: PowerVm #40 has been allocated to PowerHost #2
+0.0: Datacenter.guestAllocator: PowerVm #41 has been allocated to PowerHost #4
+0.0: Datacenter.guestAllocator: PowerVm #42 has been allocated to PowerHost #6
+0.0: Datacenter.guestAllocator: PowerVm #43 has been allocated to PowerHost #8
+0.0: Datacenter.guestAllocator: PowerVm #44 has been allocated to PowerHost #10
+0.0: Datacenter.guestAllocator: PowerVm #45 has been allocated to PowerHost #12
+0.0: Datacenter.guestAllocator: PowerVm #46 has been allocated to PowerHost #12
+0.0: Datacenter.guestAllocator: PowerVm #47 has been allocated to PowerHost #12
+0.0: Datacenter.guestAllocator: PowerVm #48 has been allocated to PowerHost #13
+0.0: Datacenter.guestAllocator: PowerVm #49 has been allocated to PowerHost #14
+0.01: Broker: PowerVm #0 has been created in Datacenter #3, PowerHost #1
+0.01: Broker: PowerVm #1 has been created in Datacenter #3, PowerHost #1
+0.01: Broker: PowerVm #2 has been created in Datacenter #3, PowerHost #3
+0.01: Broker: PowerVm #3 has been created in Datacenter #3, PowerHost #3
+0.01: Broker: PowerVm #4 has been created in Datacenter #3, PowerHost #5
+0.01: Broker: PowerVm #5 has been created in Datacenter #3, PowerHost #5
+0.01: Broker: PowerVm #6 has been created in Datacenter #3, PowerHost #7
+0.01: Broker: PowerVm #7 has been created in Datacenter #3, PowerHost #7
+0.01: Broker: PowerVm #8 has been created in Datacenter #3, PowerHost #9
+0.01: Broker: PowerVm #9 has been created in Datacenter #3, PowerHost #9
+0.01: Broker: PowerVm #10 has been created in Datacenter #3, PowerHost #11
+0.01: Broker: PowerVm #11 has been created in Datacenter #3, PowerHost #11
+0.01: Broker: PowerVm #12 has been created in Datacenter #3, PowerHost #13
+0.01: Broker: PowerVm #13 has been created in Datacenter #3, PowerHost #13
+0.01: Broker: PowerVm #14 has been created in Datacenter #3, PowerHost #15
+0.01: Broker: PowerVm #15 has been created in Datacenter #3, PowerHost #15
+0.01: Broker: PowerVm #16 has been created in Datacenter #3, PowerHost #17
+0.01: Broker: PowerVm #17 has been created in Datacenter #3, PowerHost #17
+0.01: Broker: PowerVm #18 has been created in Datacenter #3, PowerHost #19
+0.01: Broker: PowerVm #19 has been created in Datacenter #3, PowerHost #19
+0.01: Broker: PowerVm #20 has been created in Datacenter #3, PowerHost #21
+0.01: Broker: PowerVm #21 has been created in Datacenter #3, PowerHost #21
+0.01: Broker: PowerVm #22 has been created in Datacenter #3, PowerHost #23
+0.01: Broker: PowerVm #23 has been created in Datacenter #3, PowerHost #23
+0.01: Broker: PowerVm #24 has been created in Datacenter #3, PowerHost #25
+0.01: Broker: PowerVm #25 has been created in Datacenter #3, PowerHost #25
+0.01: Broker: PowerVm #26 has been created in Datacenter #3, PowerHost #0
+0.01: Broker: PowerVm #27 has been created in Datacenter #3, PowerHost #0
+0.01: Broker: PowerVm #28 has been created in Datacenter #3, PowerHost #2
+0.01: Broker: PowerVm #29 has been created in Datacenter #3, PowerHost #2
+0.01: Broker: PowerVm #30 has been created in Datacenter #3, PowerHost #4
+0.01: Broker: PowerVm #31 has been created in Datacenter #3, PowerHost #4
+0.01: Broker: PowerVm #32 has been created in Datacenter #3, PowerHost #6
+0.01: Broker: PowerVm #33 has been created in Datacenter #3, PowerHost #6
+0.01: Broker: PowerVm #34 has been created in Datacenter #3, PowerHost #8
+0.01: Broker: PowerVm #35 has been created in Datacenter #3, PowerHost #8
+0.01: Broker: PowerVm #36 has been created in Datacenter #3, PowerHost #10
+0.01: Broker: PowerVm #37 has been created in Datacenter #3, PowerHost #10
+0.01: Broker: PowerVm #38 has been created in Datacenter #3, PowerHost #12
+0.01: Broker: PowerVm #39 has been created in Datacenter #3, PowerHost #0
+0.01: Broker: PowerVm #40 has been created in Datacenter #3, PowerHost #2
+0.01: Broker: PowerVm #41 has been created in Datacenter #3, PowerHost #4
+0.01: Broker: PowerVm #42 has been created in Datacenter #3, PowerHost #6
+0.01: Broker: PowerVm #43 has been created in Datacenter #3, PowerHost #8
+0.01: Broker: PowerVm #44 has been created in Datacenter #3, PowerHost #10
+0.01: Broker: PowerVm #45 has been created in Datacenter #3, PowerHost #12
+0.01: Broker: PowerVm #46 has been created in Datacenter #3, PowerHost #12
+0.01: Broker: PowerVm #47 has been created in Datacenter #3, PowerHost #12
+0.01: Broker: PowerVm #48 has been created in Datacenter #3, PowerHost #13
+0.01: Broker: PowerVm #49 has been created in Datacenter #3, PowerHost #14
+0.01: Broker: Sending Cloudlet #0 to PowerVm #0
+0.01: Broker: Sending Cloudlet #1 to PowerVm #1
+0.01: Broker: Sending Cloudlet #2 to PowerVm #2
+0.01: Broker: Sending Cloudlet #3 to PowerVm #3
+0.01: Broker: Sending Cloudlet #4 to PowerVm #4
+0.01: Broker: Sending Cloudlet #5 to PowerVm #5
+0.01: Broker: Sending Cloudlet #6 to PowerVm #6
+0.01: Broker: Sending Cloudlet #7 to PowerVm #7
+0.01: Broker: Sending Cloudlet #8 to PowerVm #8
+0.01: Broker: Sending Cloudlet #9 to PowerVm #9
+0.01: Broker: Sending Cloudlet #10 to PowerVm #10
+0.01: Broker: Sending Cloudlet #11 to PowerVm #11
+0.01: Broker: Sending Cloudlet #12 to PowerVm #12
+0.01: Broker: Sending Cloudlet #13 to PowerVm #13
+0.01: Broker: Sending Cloudlet #14 to PowerVm #14
+0.01: Broker: Sending Cloudlet #15 to PowerVm #15
+0.01: Broker: Sending Cloudlet #16 to PowerVm #16
+0.01: Broker: Sending Cloudlet #17 to PowerVm #17
+0.01: Broker: Sending Cloudlet #18 to PowerVm #18
+0.01: Broker: Sending Cloudlet #19 to PowerVm #19
+0.01: Broker: Sending Cloudlet #20 to PowerVm #20
+0.01: Broker: Sending Cloudlet #21 to PowerVm #21
+0.01: Broker: Sending Cloudlet #22 to PowerVm #22
+0.01: Broker: Sending Cloudlet #23 to PowerVm #23
+0.01: Broker: Sending Cloudlet #24 to PowerVm #24
+0.01: Broker: Sending Cloudlet #25 to PowerVm #25
+0.01: Broker: Sending Cloudlet #26 to PowerVm #26
+0.01: Broker: Sending Cloudlet #27 to PowerVm #27
+0.01: Broker: Sending Cloudlet #28 to PowerVm #28
+0.01: Broker: Sending Cloudlet #29 to PowerVm #29
+0.01: Broker: Sending Cloudlet #30 to PowerVm #30
+0.01: Broker: Sending Cloudlet #31 to PowerVm #31
+0.01: Broker: Sending Cloudlet #32 to PowerVm #32
+0.01: Broker: Sending Cloudlet #33 to PowerVm #33
+0.01: Broker: Sending Cloudlet #34 to PowerVm #34
+0.01: Broker: Sending Cloudlet #35 to PowerVm #35
+0.01: Broker: Sending Cloudlet #36 to PowerVm #36
+0.01: Broker: Sending Cloudlet #37 to PowerVm #37
+0.01: Broker: Sending Cloudlet #38 to PowerVm #38
+0.01: Broker: Sending Cloudlet #39 to PowerVm #39
+0.01: Broker: Sending Cloudlet #40 to PowerVm #40
+0.01: Broker: Sending Cloudlet #41 to PowerVm #41
+0.01: Broker: Sending Cloudlet #42 to PowerVm #42
+0.01: Broker: Sending Cloudlet #43 to PowerVm #43
+0.01: Broker: Sending Cloudlet #44 to PowerVm #44
+0.01: Broker: Sending Cloudlet #45 to PowerVm #45
+0.01: Broker: Sending Cloudlet #46 to PowerVm #46
+0.01: Broker: Sending Cloudlet #47 to PowerVm #47
+0.01: Broker: Sending Cloudlet #48 to PowerVm #48
+0.01: Broker: Sending Cloudlet #49 to PowerVm #49
+300.01 
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 300.01:
+
+300.01: [Host #0] Total allocated MIPS for VM #26 (Host #0) is 545.0924574643284, was requested 545.0924574643284 out of total 1000.0 (54.509245746432846%.2f%%)
+300.01: [Host #0] MIPS for VM #26 by PEs (2 * 1860.0). PE #0: 545.09.
+300.01: [Host #0] Total allocated MIPS for VM #27 (Host #0) is 714.6368532850443, was requested 714.6368532850443 out of total 1000.0 (71.46368532850443%.2f%%)
+300.01: [Host #0] MIPS for VM #27 by PEs (2 * 1860.0). PE #0: 714.64.
+300.01: [Host #0] Total allocated MIPS for VM #39 (Host #0) is 87.29514959942969, was requested 87.29514959942969 out of total 500.0 (17.45902991988594%.2f%%)
+300.01: [Host #0] MIPS for VM #39 by PEs (2 * 1860.0). PE #0: 87.30.
+300.01: [Host #0] utilization is 36.21%
+
+300.01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 601.3410391787147, was requested 601.3410391787147 out of total 2500.0 (24.05364156714859%.2f%%)
+300.01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 601.34.
+300.01: [Host #1] Total allocated MIPS for VM #1 (Host #1) is 1025.2020287305043, was requested 1025.2020287305043 out of total 2500.0 (41.008081149220175%.2f%%)
+300.01: [Host #1] MIPS for VM #1 by PEs (2 * 2660.0). PE #0: 1025.20.
+300.01: [Host #1] utilization is 30.57%
+
+300.01: [Host #2] Total allocated MIPS for VM #28 (Host #2) is 562.3588323886229, was requested 562.3588323886229 out of total 1000.0 (56.235883238862286%.2f%%)
+300.01: [Host #2] MIPS for VM #28 by PEs (2 * 1860.0). PE #0: 562.36.
+300.01: [Host #2] Total allocated MIPS for VM #29 (Host #2) is 731.9032282093387, was requested 731.9032282093387 out of total 1000.0 (73.19032282093387%.2f%%)
+300.01: [Host #2] MIPS for VM #29 by PEs (2 * 1860.0). PE #0: 731.90.
+300.01: [Host #2] Total allocated MIPS for VM #40 (Host #2) is 11.156139151219048, was requested 11.156139151219048 out of total 500.0 (2.2312278302438098%.2f%%)
+300.01: [Host #2] MIPS for VM #40 by PEs (2 * 1860.0). PE #0: 11.16.
+300.01: [Host #2] utilization is 35.09%
+
+300.01: [Host #3] Total allocated MIPS for VM #2 (Host #3) is 2253.619060075136, was requested 2253.619060075136 out of total 2500.0 (90.14476240300544%.2f%%)
+300.01: [Host #3] MIPS for VM #2 by PEs (2 * 2660.0). PE #0: 2253.62.
+300.01: [Host #3] Total allocated MIPS for VM #3 (Host #3) is 177.48008687982846, was requested 177.48008687982846 out of total 2500.0 (7.099203475193139%.2f%%)
+300.01: [Host #3] MIPS for VM #3 by PEs (2 * 2660.0). PE #0: 177.48.
+300.01: [Host #3] utilization is 45.70%
+
+300.01: [Host #4] Total allocated MIPS for VM #30 (Host #4) is 223.27004074719147, was requested 223.27004074719147 out of total 1000.0 (22.32700407471915%.2f%%)
+300.01: [Host #4] MIPS for VM #30 by PEs (2 * 1860.0). PE #0: 223.27.
+300.01: [Host #4] Total allocated MIPS for VM #31 (Host #4) is 392.81443656790714, was requested 392.81443656790714 out of total 1000.0 (39.281443656790714%.2f%%)
+300.01: [Host #4] MIPS for VM #31 by PEs (2 * 1860.0). PE #0: 392.81.
+300.01: [Host #4] Total allocated MIPS for VM #41 (Host #4) is 95.92833706157694, was requested 95.92833706157694 out of total 500.0 (19.18566741231539%.2f%%)
+300.01: [Host #4] MIPS for VM #41 by PEs (2 * 1860.0). PE #0: 95.93.
+300.01: [Host #4] utilization is 19.14%
+
+300.01: [Host #5] Total allocated MIPS for VM #4 (Host #5) is 2296.7850346387754, was requested 2296.7850346387754 out of total 2500.0 (91.87140138555102%.2f%%)
+300.01: [Host #5] MIPS for VM #4 by PEs (2 * 2660.0). PE #0: 2296.79.
+300.01: [Host #5] Total allocated MIPS for VM #5 (Host #5) is 220.64602419056473, was requested 220.64602419056473 out of total 2500.0 (8.82584096762259%.2f%%)
+300.01: [Host #5] MIPS for VM #5 by PEs (2 * 2660.0). PE #0: 220.65.
+300.01: [Host #5] utilization is 47.32%
+
+300.01: [Host #6] Total allocated MIPS for VM #32 (Host #6) is 665.9570968355509, was requested 665.9570968355509 out of total 1000.0 (66.5957096835551%.2f%%)
+300.01: [Host #6] MIPS for VM #32 by PEs (2 * 1860.0). PE #0: 665.96.
+300.01: [Host #6] Total allocated MIPS for VM #33 (Host #6) is 835.5014926562667, was requested 835.5014926562667 out of total 1000.0 (83.55014926562667%.2f%%)
+300.01: [Host #6] MIPS for VM #33 by PEs (2 * 1860.0). PE #0: 835.50.
+300.01: [Host #6] Total allocated MIPS for VM #42 (Host #6) is 341.6117358799227, was requested 341.6117358799227 out of total 500.0 (68.32234717598455%.2f%%)
+300.01: [Host #6] MIPS for VM #42 by PEs (2 * 1860.0). PE #0: 341.61.
+300.01: [Host #6] utilization is 49.54%
+
+300.01: [Host #7] Total allocated MIPS for VM #6 (Host #7) is 1449.0630182822936, was requested 1449.0630182822936 out of total 2500.0 (57.96252073129175%.2f%%)
+300.01: [Host #7] MIPS for VM #6 by PEs (2 * 2660.0). PE #0: 1449.06.
+300.01: [Host #7] Total allocated MIPS for VM #7 (Host #7) is 1872.9240078340829, was requested 1872.9240078340829 out of total 2500.0 (74.91696031336332%.2f%%)
+300.01: [Host #7] MIPS for VM #7 by PEs (2 * 2660.0). PE #0: 1210.94. PE #1: 661.99.
+300.01: [Host #7] utilization is 62.44%
+
+300.01: [Host #8] Total allocated MIPS for VM #34 (Host #8) is 326.86830519411944, was requested 326.86830519411944 out of total 1000.0 (32.68683051941195%.2f%%)
+300.01: [Host #8] MIPS for VM #34 by PEs (2 * 1860.0). PE #0: 326.87.
+300.01: [Host #8] Total allocated MIPS for VM #35 (Host #8) is 496.41270101483514, was requested 496.41270101483514 out of total 1000.0 (49.641270101483514%.2f%%)
+300.01: [Host #8] MIPS for VM #35 by PEs (2 * 1860.0). PE #0: 496.41.
+300.01: [Host #8] Total allocated MIPS for VM #43 (Host #8) is 426.38394124086113, was requested 426.38394124086113 out of total 500.0 (85.27678824817222%.2f%%)
+300.01: [Host #8] MIPS for VM #43 by PEs (2 * 1860.0). PE #0: 426.38.
+300.01: [Host #8] utilization is 33.59%
+
+300.01: [Host #9] Total allocated MIPS for VM #8 (Host #9) is 1492.2289555930297, was requested 1492.2289555930297 out of total 2500.0 (59.689158223721186%.2f%%)
+300.01: [Host #9] MIPS for VM #8 by PEs (2 * 2660.0). PE #0: 1492.23.
+300.01: [Host #9] Total allocated MIPS for VM #9 (Host #9) is 1916.089982397722, was requested 1916.089982397722 out of total 2500.0 (76.64359929590888%.2f%%)
+300.01: [Host #9] MIPS for VM #9 by PEs (2 * 2660.0). PE #0: 1167.77. PE #1: 748.32.
+300.01: [Host #9] utilization is 64.07%
+
+300.01: [Host #10] Total allocated MIPS for VM #36 (Host #10) is 344.134680118414, was requested 344.134680118414 out of total 1000.0 (34.413468011841395%.2f%%)
+300.01: [Host #10] MIPS for VM #36 by PEs (2 * 1860.0). PE #0: 344.13.
+300.01: [Host #10] Total allocated MIPS for VM #37 (Host #10) is 513.6790759391297, was requested 513.6790759391297 out of total 1000.0 (51.36790759391297%.2f%%)
+300.01: [Host #10] MIPS for VM #37 by PEs (2 * 1860.0). PE #0: 513.68.
+300.01: [Host #10] Total allocated MIPS for VM #44 (Host #10) is 350.2449307926505, was requested 350.2449307926505 out of total 500.0 (70.0489861585301%.2f%%)
+300.01: [Host #10] MIPS for VM #44 by PEs (2 * 1860.0). PE #0: 350.24.
+300.01: [Host #10] utilization is 32.47%
+
+300.01: [Host #11] Total allocated MIPS for VM #10 (Host #11) is 644.506976489451, was requested 644.506976489451 out of total 2500.0 (25.78027905957804%.2f%%)
+300.01: [Host #11] MIPS for VM #10 by PEs (2 * 2660.0). PE #0: 644.51.
+300.01: [Host #11] Total allocated MIPS for VM #11 (Host #11) is 1068.3679660412404, was requested 1068.3679660412404 out of total 2500.0 (42.734718641649614%.2f%%)
+300.01: [Host #11] MIPS for VM #11 by PEs (2 * 2660.0). PE #0: 1068.37.
+300.01: [Host #11] utilization is 32.20%
+
+300.01: [Host #12] Total allocated MIPS for VM #38 (Host #12) is 5.04590337814359, was requested 5.04590337814359 out of total 1000.0 (0.504590337814359%.2f%%)
+300.01: [Host #12] MIPS for VM #38 by PEs (2 * 1860.0). PE #0: 5.05.
+300.01: [Host #12] Total allocated MIPS for VM #45 (Host #12) is 435.0171287030084, was requested 435.0171287030084 out of total 500.0 (87.00342574060168%.2f%%)
+300.01: [Host #12] MIPS for VM #45 by PEs (2 * 1860.0). PE #0: 435.02.
+300.01: [Host #12] Total allocated MIPS for VM #46 (Host #12) is 180.7005275213542, was requested 180.7005275213542 out of total 500.0 (36.140105504270835%.2f%%)
+300.01: [Host #12] MIPS for VM #46 by PEs (2 * 1860.0). PE #0: 180.70.
+300.01: [Host #12] Total allocated MIPS for VM #47 (Host #12) is 265.4727254317121, was requested 265.4727254317121 out of total 500.0 (53.094545086342414%.2f%%)
+300.01: [Host #12] MIPS for VM #47 by PEs (2 * 1860.0). PE #0: 265.47.
+300.01: [Host #12] utilization is 23.82%
+
+300.01: [Host #13] Total allocated MIPS for VM #12 (Host #13) is 687.6729138001872, was requested 687.6729138001872 out of total 2500.0 (27.50691655200749%.2f%%)
+300.01: [Host #13] MIPS for VM #12 by PEs (2 * 2660.0). PE #0: 687.67.
+300.01: [Host #13] Total allocated MIPS for VM #13 (Host #13) is 889.2271226815811, was requested 889.2271226815811 out of total 2000.0 (44.461356134079054%.2f%%)
+300.01: [Host #13] MIPS for VM #13 by PEs (2 * 2660.0). PE #0: 889.23.
+300.01: [Host #13] Total allocated MIPS for VM #48 (Host #13) is 476.6233818520495, was requested 476.6233818520495 out of total 500.0 (95.3246763704099%.2f%%)
+300.01: [Host #13] MIPS for VM #48 by PEs (2 * 2660.0). PE #0: 476.62.
+300.01: [Host #13] utilization is 38.60%
+
+300.01: [Host #14] Total allocated MIPS for VM #49 (Host #14) is 61.395579762407394, was requested 61.395579762407394 out of total 500.0 (12.27911595248148%.2f%%)
+300.01: [Host #14] MIPS for VM #49 by PEs (2 * 1860.0). PE #0: 61.40.
+300.01: [Host #14] utilization is 1.65%
+
+300.01: [Host #15] Total allocated MIPS for VM #14 (Host #15) is 1871.9607775596091, was requested 1871.9607775596091 out of total 2000.0 (93.59803887798046%.2f%%)
+300.01: [Host #15] MIPS for VM #14 by PEs (2 * 2660.0). PE #0: 1871.96.
+300.01: [Host #15] Total allocated MIPS for VM #15 (Host #15) is 211.04956920104055, was requested 211.04956920104055 out of total 2000.0 (10.55247846005203%.2f%%)
+300.01: [Host #15] MIPS for VM #15 by PEs (2 * 2660.0). PE #0: 211.05.
+300.01: [Host #15] utilization is 39.15%
+
+300.01: [Host #16] utilization is 0.00%
+
+300.01: [Host #17] Total allocated MIPS for VM #16 (Host #17) is 1055.652165080068, was requested 1055.652165080068 out of total 2000.0 (52.78260825400341%.2f%%)
+300.01: [Host #17] MIPS for VM #16 by PEs (2 * 2660.0). PE #0: 1055.65.
+300.01: [Host #17] Total allocated MIPS for VM #17 (Host #17) is 1394.7409567214995, was requested 1394.7409567214995 out of total 2000.0 (69.73704783607498%.2f%%)
+300.01: [Host #17] MIPS for VM #17 by PEs (2 * 2660.0). PE #0: 1394.74.
+300.01: [Host #17] utilization is 46.06%
+
+300.01: [Host #18] utilization is 0.00%
+
+300.01: [Host #19] Total allocated MIPS for VM #18 (Host #19) is 377.4745519948826, was requested 377.4745519948826 out of total 2000.0 (18.87372759974413%.2f%%)
+300.01: [Host #19] MIPS for VM #18 by PEs (2 * 2660.0). PE #0: 377.47.
+300.01: [Host #19] Total allocated MIPS for VM #19 (Host #19) is 716.5633734386365, was requested 716.5633734386365 out of total 2000.0 (35.82816867193183%.2f%%)
+300.01: [Host #19] MIPS for VM #19 by PEs (2 * 2660.0). PE #0: 716.56.
+300.01: [Host #19] utilization is 20.56%
+
+300.01: [Host #20] utilization is 0.00%
+
+300.01: [Host #21] Total allocated MIPS for VM #20 (Host #21) is 412.00733164579395, was requested 412.00733164579395 out of total 2000.0 (20.6003665822897%.2f%%)
+300.01: [Host #21] MIPS for VM #20 by PEs (2 * 2660.0). PE #0: 412.01.
+300.01: [Host #21] Total allocated MIPS for VM #21 (Host #21) is 751.0961232872255, was requested 751.0961232872255 out of total 2000.0 (37.554806164361274%.2f%%)
+300.01: [Host #21] MIPS for VM #21 by PEs (2 * 2660.0). PE #0: 751.10.
+300.01: [Host #21] utilization is 21.86%
+
+300.01: [Host #22] utilization is 0.00%
+
+300.01: [Host #23] Total allocated MIPS for VM #22 (Host #23) is 1733.829748362931, was requested 1733.829748362931 out of total 2000.0 (86.69148741814655%.2f%%)
+300.01: [Host #23] MIPS for VM #22 by PEs (2 * 2660.0). PE #0: 1733.83.
+300.01: [Host #23] Total allocated MIPS for VM #23 (Host #23) is 72.91854000436237, was requested 72.91854000436237 out of total 2000.0 (3.6459270002181188%.2f%%)
+300.01: [Host #23] MIPS for VM #23 by PEs (2 * 2660.0). PE #0: 72.92.
+300.01: [Host #23] utilization is 33.96%
+
+300.01: [Host #24] utilization is 0.00%
+
+300.01: [Host #25] Total allocated MIPS for VM #24 (Host #25) is 1768.36249821152, was requested 1768.36249821152 out of total 2000.0 (88.418124910576%.2f%%)
+300.01: [Host #25] MIPS for VM #24 by PEs (2 * 2660.0). PE #0: 1768.36.
+300.01: [Host #25] Total allocated MIPS for VM #25 (Host #25) is 107.45131965527376, was requested 107.45131965527376 out of total 2000.0 (5.372565982763689%.2f%%)
+300.01: [Host #25] MIPS for VM #25 by PEs (2 * 2660.0). PE #0: 107.45.
+300.01: [Host #25] utilization is 35.26%
+
+300.01: [Host #26] utilization is 0.00%
+
+300.01: [Host #27] utilization is 0.00%
+
+300.01: [Host #28] utilization is 0.00%
+
+300.01: [Host #29] utilization is 0.00%
+
+300.01: [Host #30] utilization is 0.00%
+
+300.01: [Host #31] utilization is 0.00%
+
+300.01: [Host #32] utilization is 0.00%
+
+300.01: [Host #33] utilization is 0.00%
+
+300.01: [Host #34] utilization is 0.00%
+
+300.01: [Host #35] utilization is 0.00%
+
+300.01: [Host #36] utilization is 0.00%
+
+300.01: [Host #37] utilization is 0.00%
+
+300.01: [Host #38] utilization is 0.00%
+
+300.01: [Host #39] utilization is 0.00%
+
+300.01: [Host #40] utilization is 0.00%
+
+300.01: [Host #41] utilization is 0.00%
+
+300.01: [Host #42] utilization is 0.00%
+
+300.01: [Host #43] utilization is 0.00%
+
+300.01: [Host #44] utilization is 0.00%
+
+300.01: [Host #45] utilization is 0.00%
+
+300.01: [Host #46] utilization is 0.00%
+
+300.01: [Host #47] utilization is 0.00%
+
+300.01: [Host #48] utilization is 0.00%
+
+300.01: [Host #49] utilization is 0.00%
+
+Energy consumption for the last time frame from 0.00 to 300.01:
+
+300.01: [Host #0] utilization at 0.00 was 0.00%, now is 36.21%
+300.01: [Host #0] energy is 0.00 W*sec
+
+300.01: [Host #1] utilization at 0.00 was 0.00%, now is 30.57%
+300.01: [Host #1] energy is 0.00 W*sec
+
+300.01: [Host #2] utilization at 0.00 was 0.00%, now is 35.09%
+300.01: [Host #2] energy is 0.00 W*sec
+
+300.01: [Host #3] utilization at 0.00 was 0.00%, now is 45.70%
+300.01: [Host #3] energy is 0.00 W*sec
+
+300.01: [Host #4] utilization at 0.00 was 0.00%, now is 19.14%
+300.01: [Host #4] energy is 0.00 W*sec
+
+300.01: [Host #5] utilization at 0.00 was 0.00%, now is 47.32%
+300.01: [Host #5] energy is 0.00 W*sec
+
+300.01: [Host #6] utilization at 0.00 was 0.00%, now is 49.54%
+300.01: [Host #6] energy is 0.00 W*sec
+
+300.01: [Host #7] utilization at 0.00 was 0.00%, now is 62.44%
+300.01: [Host #7] energy is 0.00 W*sec
+
+300.01: [Host #8] utilization at 0.00 was 0.00%, now is 33.59%
+300.01: [Host #8] energy is 0.00 W*sec
+
+300.01: [Host #9] utilization at 0.00 was 0.00%, now is 64.07%
+300.01: [Host #9] energy is 0.00 W*sec
+
+300.01: [Host #10] utilization at 0.00 was 0.00%, now is 32.47%
+300.01: [Host #10] energy is 0.00 W*sec
+
+300.01: [Host #11] utilization at 0.00 was 0.00%, now is 32.20%
+300.01: [Host #11] energy is 0.00 W*sec
+
+300.01: [Host #12] utilization at 0.00 was 0.00%, now is 23.82%
+300.01: [Host #12] energy is 0.00 W*sec
+
+300.01: [Host #13] utilization at 0.00 was 0.00%, now is 38.60%
+300.01: [Host #13] energy is 0.00 W*sec
+
+300.01: [Host #14] utilization at 0.00 was 0.00%, now is 1.65%
+300.01: [Host #14] energy is 0.00 W*sec
+
+300.01: [Host #15] utilization at 0.00 was 0.00%, now is 39.15%
+300.01: [Host #15] energy is 0.00 W*sec
+
+300.01: [Host #16] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #16] energy is 0.00 W*sec
+
+300.01: [Host #17] utilization at 0.00 was 0.00%, now is 46.06%
+300.01: [Host #17] energy is 0.00 W*sec
+
+300.01: [Host #18] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #18] energy is 0.00 W*sec
+
+300.01: [Host #19] utilization at 0.00 was 0.00%, now is 20.56%
+300.01: [Host #19] energy is 0.00 W*sec
+
+300.01: [Host #20] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #20] energy is 0.00 W*sec
+
+300.01: [Host #21] utilization at 0.00 was 0.00%, now is 21.86%
+300.01: [Host #21] energy is 0.00 W*sec
+
+300.01: [Host #22] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #22] energy is 0.00 W*sec
+
+300.01: [Host #23] utilization at 0.00 was 0.00%, now is 33.96%
+300.01: [Host #23] energy is 0.00 W*sec
+
+300.01: [Host #24] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #24] energy is 0.00 W*sec
+
+300.01: [Host #25] utilization at 0.00 was 0.00%, now is 35.26%
+300.01: [Host #25] energy is 0.00 W*sec
+
+300.01: [Host #26] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #26] energy is 0.00 W*sec
+
+300.01: [Host #27] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #27] energy is 0.00 W*sec
+
+300.01: [Host #28] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #28] energy is 0.00 W*sec
+
+300.01: [Host #29] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #29] energy is 0.00 W*sec
+
+300.01: [Host #30] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #30] energy is 0.00 W*sec
+
+300.01: [Host #31] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #31] energy is 0.00 W*sec
+
+300.01: [Host #32] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #32] energy is 0.00 W*sec
+
+300.01: [Host #33] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #33] energy is 0.00 W*sec
+
+300.01: [Host #34] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #34] energy is 0.00 W*sec
+
+300.01: [Host #35] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #35] energy is 0.00 W*sec
+
+300.01: [Host #36] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #36] energy is 0.00 W*sec
+
+300.01: [Host #37] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #37] energy is 0.00 W*sec
+
+300.01: [Host #38] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #38] energy is 0.00 W*sec
+
+300.01: [Host #39] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #39] energy is 0.00 W*sec
+
+300.01: [Host #40] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #40] energy is 0.00 W*sec
+
+300.01: [Host #41] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #41] energy is 0.00 W*sec
+
+300.01: [Host #42] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #42] energy is 0.00 W*sec
+
+300.01: [Host #43] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #43] energy is 0.00 W*sec
+
+300.01: [Host #44] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #44] energy is 0.00 W*sec
+
+300.01: [Host #45] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #45] energy is 0.00 W*sec
+
+300.01: [Host #46] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #46] energy is 0.00 W*sec
+
+300.01: [Host #47] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #47] energy is 0.00 W*sec
+
+300.01: [Host #48] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #48] energy is 0.00 W*sec
+
+300.01: [Host #49] utilization at 0.00 was 0.00%, now is 0.00%
+300.01: [Host #49] energy is 0.00 W*sec
+
+300.01: Data center's energy is 0.00 W*sec
+
+VM #26 has been deallocated from host #0
+VM #27 has been deallocated from host #0
+VM #39 has been deallocated from host #0
+VM #0 has been deallocated from host #1
+VM #1 has been deallocated from host #1
+VM #28 has been deallocated from host #2
+VM #29 has been deallocated from host #2
+VM #40 has been deallocated from host #2
+VM #2 has been deallocated from host #3
+VM #3 has been deallocated from host #3
+VM #30 has been deallocated from host #4
+VM #31 has been deallocated from host #4
+VM #41 has been deallocated from host #4
+VM #4 has been deallocated from host #5
+VM #5 has been deallocated from host #5
+VM #32 has been deallocated from host #6
+VM #33 has been deallocated from host #6
+VM #42 has been deallocated from host #6
+VM #6 has been deallocated from host #7
+VM #7 has been deallocated from host #7
+VM #34 has been deallocated from host #8
+VM #35 has been deallocated from host #8
+VM #43 has been deallocated from host #8
+VM #8 has been deallocated from host #9
+VM #9 has been deallocated from host #9
+VM #36 has been deallocated from host #10
+VM #37 has been deallocated from host #10
+VM #44 has been deallocated from host #10
+VM #10 has been deallocated from host #11
+VM #11 has been deallocated from host #11
+VM #38 has been deallocated from host #12
+VM #45 has been deallocated from host #12
+VM #46 has been deallocated from host #12
+VM #47 has been deallocated from host #12
+VM #12 has been deallocated from host #13
+VM #13 has been deallocated from host #13
+VM #48 has been deallocated from host #13
+VM #49 has been deallocated from host #14
+VM #14 has been deallocated from host #15
+VM #15 has been deallocated from host #15
+VM #16 has been deallocated from host #17
+VM #17 has been deallocated from host #17
+VM #18 has been deallocated from host #19
+VM #19 has been deallocated from host #19
+VM #20 has been deallocated from host #21
+VM #21 has been deallocated from host #21
+VM #22 has been deallocated from host #23
+VM #23 has been deallocated from host #23
+VM #24 has been deallocated from host #25
+VM #25 has been deallocated from host #25
+
+600.01 
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 600.01:
+
+600.01: [Host #0] utilization is 0.00%
+
+600.01: [Host #1] utilization is 0.00%
+
+600.01: [Host #2] utilization is 0.00%
+
+600.01: [Host #3] utilization is 0.00%
+
+600.01: [Host #4] utilization is 0.00%
+
+600.01: [Host #5] utilization is 0.00%
+
+600.01: [Host #6] utilization is 0.00%
+
+600.01: [Host #7] utilization is 0.00%
+
+600.01: [Host #8] utilization is 0.00%
+
+600.01: [Host #9] utilization is 0.00%
+
+600.01: [Host #10] utilization is 0.00%
+
+600.01: [Host #11] utilization is 0.00%
+
+600.01: [Host #12] utilization is 0.00%
+
+600.01: [Host #13] utilization is 0.00%
+
+600.01: [Host #14] utilization is 0.00%
+
+600.01: [Host #15] utilization is 0.00%
+
+600.01: [Host #16] utilization is 0.00%
+
+600.01: [Host #17] utilization is 0.00%
+
+600.01: [Host #18] utilization is 0.00%
+
+600.01: [Host #19] utilization is 0.00%
+
+600.01: [Host #20] utilization is 0.00%
+
+600.01: [Host #21] utilization is 0.00%
+
+600.01: [Host #22] utilization is 0.00%
+
+600.01: [Host #23] utilization is 0.00%
+
+600.01: [Host #24] utilization is 0.00%
+
+600.01: [Host #25] utilization is 0.00%
+
+600.01: [Host #26] utilization is 0.00%
+
+600.01: [Host #27] utilization is 0.00%
+
+600.01: [Host #28] utilization is 0.00%
+
+600.01: [Host #29] utilization is 0.00%
+
+600.01: [Host #30] utilization is 0.00%
+
+600.01: [Host #31] utilization is 0.00%
+
+600.01: [Host #32] utilization is 0.00%
+
+600.01: [Host #33] utilization is 0.00%
+
+600.01: [Host #34] utilization is 0.00%
+
+600.01: [Host #35] utilization is 0.00%
+
+600.01: [Host #36] utilization is 0.00%
+
+600.01: [Host #37] utilization is 0.00%
+
+600.01: [Host #38] utilization is 0.00%
+
+600.01: [Host #39] utilization is 0.00%
+
+600.01: [Host #40] utilization is 0.00%
+
+600.01: [Host #41] utilization is 0.00%
+
+600.01: [Host #42] utilization is 0.00%
+
+600.01: [Host #43] utilization is 0.00%
+
+600.01: [Host #44] utilization is 0.00%
+
+600.01: [Host #45] utilization is 0.00%
+
+600.01: [Host #46] utilization is 0.00%
+
+600.01: [Host #47] utilization is 0.00%
+
+600.01: [Host #48] utilization is 0.00%
+
+600.01: [Host #49] utilization is 0.00%
+
+Energy consumption for the last time frame from 300.01 to 600.01:
+
+600.01: [Host #0] utilization at 300.01 was 36.21%, now is 0.00%
+600.01: [Host #0] energy is 27626.04 W*sec
+
+600.01: [Host #1] utilization at 300.01 was 30.57%, now is 0.00%
+600.01: [Host #1] energy is 29848.06 W*sec
+
+600.01: [Host #2] utilization at 300.01 was 35.09%, now is 0.00%
+600.01: [Host #2] energy is 27567.32 W*sec
+
+600.01: [Host #3] utilization at 300.01 was 45.70%, now is 0.00%
+600.01: [Host #3] energy is 31067.76 W*sec
+
+600.01: [Host #4] utilization at 300.01 was 19.14%, now is 0.00%
+600.01: [Host #4] energy is 26748.73 W*sec
+
+600.01: [Host #5] utilization at 300.01 was 47.32%, now is 0.00%
+600.01: [Host #5] energy is 31213.81 W*sec
+
+600.01: [Host #6] utilization at 300.01 was 49.54%, now is 0.00%
+600.01: [Host #6] energy is 28182.93 W*sec
+
+600.01: [Host #7] utilization at 300.01 was 62.44%, now is 0.00%
+600.01: [Host #7] energy is 32351.60 W*sec
+
+600.01: [Host #8] utilization at 300.01 was 33.59%, now is 0.00%
+600.01: [Host #8] energy is 27488.64 W*sec
+
+600.01: [Host #9] utilization at 300.01 was 64.07%, now is 0.00%
+600.01: [Host #9] energy is 32448.97 W*sec
+
+600.01: [Host #10] utilization at 300.01 was 32.47%, now is 0.00%
+600.01: [Host #10] energy is 27429.92 W*sec
+
+600.01: [Host #11] utilization at 300.01 was 32.20%, now is 0.00%
+600.01: [Host #11] energy is 29969.77 W*sec
+
+600.01: [Host #12] utilization at 300.01 was 23.82%, now is 0.00%
+600.01: [Host #12] energy is 26985.00 W*sec
+
+600.01: [Host #13] utilization at 300.01 was 38.60%, now is 0.00%
+600.01: [Host #13] energy is 30450.00 W*sec
+
+600.01: [Host #14] utilization at 300.01 was 1.65%, now is 0.00%
+600.01: [Host #14] energy is 25884.17 W*sec
+
+600.01: [Host #15] utilization at 300.01 was 39.15%, now is 0.00%
+600.01: [Host #15] energy is 30491.57 W*sec
+
+600.01: [Host #16] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #16] energy is 0.00 W*sec
+
+600.01: [Host #17] utilization at 300.01 was 46.06%, now is 0.00%
+600.01: [Host #17] energy is 31100.40 W*sec
+
+600.01: [Host #18] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #18] energy is 0.00 W*sec
+
+600.01: [Host #19] utilization at 300.01 was 20.56%, now is 0.00%
+600.01: [Host #19] energy is 29238.88 W*sec
+
+600.01: [Host #20] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #20] energy is 0.00 W*sec
+
+600.01: [Host #21] utilization at 300.01 was 21.86%, now is 0.00%
+600.01: [Host #21] energy is 29316.77 W*sec
+
+600.01: [Host #22] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #22] energy is 0.00 W*sec
+
+600.01: [Host #23] utilization at 300.01 was 33.96%, now is 0.00%
+600.01: [Host #23] energy is 30102.11 W*sec
+
+600.01: [Host #24] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #24] energy is 0.00 W*sec
+
+600.01: [Host #25] utilization at 300.01 was 35.26%, now is 0.00%
+600.01: [Host #25] energy is 30199.47 W*sec
+
+600.01: [Host #26] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #26] energy is 0.00 W*sec
+
+600.01: [Host #27] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #27] energy is 0.00 W*sec
+
+600.01: [Host #28] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #28] energy is 0.00 W*sec
+
+600.01: [Host #29] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #29] energy is 0.00 W*sec
+
+600.01: [Host #30] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #30] energy is 0.00 W*sec
+
+600.01: [Host #31] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #31] energy is 0.00 W*sec
+
+600.01: [Host #32] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #32] energy is 0.00 W*sec
+
+600.01: [Host #33] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #33] energy is 0.00 W*sec
+
+600.01: [Host #34] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #34] energy is 0.00 W*sec
+
+600.01: [Host #35] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #35] energy is 0.00 W*sec
+
+600.01: [Host #36] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #36] energy is 0.00 W*sec
+
+600.01: [Host #37] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #37] energy is 0.00 W*sec
+
+600.01: [Host #38] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #38] energy is 0.00 W*sec
+
+600.01: [Host #39] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #39] energy is 0.00 W*sec
+
+600.01: [Host #40] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #40] energy is 0.00 W*sec
+
+600.01: [Host #41] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #41] energy is 0.00 W*sec
+
+600.01: [Host #42] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #42] energy is 0.00 W*sec
+
+600.01: [Host #43] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #43] energy is 0.00 W*sec
+
+600.01: [Host #44] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #44] energy is 0.00 W*sec
+
+600.01: [Host #45] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #45] energy is 0.00 W*sec
+
+600.01: [Host #46] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #46] energy is 0.00 W*sec
+
+600.01: [Host #47] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #47] energy is 0.00 W*sec
+
+600.01: [Host #48] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #48] energy is 0.00 W*sec
+
+600.01: [Host #49] utilization at 300.01 was 0.00%, now is 0.00%
+600.01: [Host #49] energy is 0.00 W*sec
+
+600.01: Data center's energy is 615711.94 W*sec
+
+
+600.01: Simulation: No more future events
+600.01: CloudInformationService is shutting down...
+600.01: CloudInformationService: Notify all CloudSim entities for shutting down.
+600.01: Broker is shutting down...
+600.01: Datacenter is shutting down...
+Simulation completed.
+Received 0 cloudlets
+Simulation completed.
+
+Experiment name: random_dvfs
+Number of hosts: 50
+Number of VMs: 50
+Total simulation time: 600.01 sec
+Energy consumption: 0.17 kWh
+Number of VM migrations: 0
+SLA: NaN%
+SLA perf degradation due to migration: NaN%
+SLA time per active host: 0.00%
+Overall SLA violation: NaN%
+Average SLA violation: 0.00%
+Number of host shutdowns: 50
+Mean time before a host shutdown: 426.01 sec
+StDev time before a host shutdown: 149.57 sec
+Mean time before a VM migration: NaN sec
+StDev time before a VM migration: NaN sec
+

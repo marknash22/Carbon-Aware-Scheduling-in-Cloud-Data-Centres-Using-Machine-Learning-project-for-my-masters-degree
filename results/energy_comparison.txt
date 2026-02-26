@@ -1,0 +1,5 @@
+Energy Model Comparison (Python vs CloudSim)
+Python total energy (kWh): 928302.229000
+CloudSim energy (kWh):      0.170000
+Absolute difference (kWh):  928302.059000
+Percent difference (%):     546060034.71

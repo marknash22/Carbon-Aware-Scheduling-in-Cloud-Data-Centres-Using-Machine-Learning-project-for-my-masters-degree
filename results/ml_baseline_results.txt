@@ -1,0 +1,15 @@
+Random Forest Baseline (Time Features)
+Train rows: 900  Test rows: 226
+MAE: 525578.1692182891
+RMSE: 1111291.0835063956
+
+Feature importance:
+roll7_mean     0.800444
+roll7_std      0.054748
+roll14_mean    0.030070
+lag1           0.027372
+lag7           0.023395
+dayofweek      0.023252
+dayofmonth     0.018994
+weekofyear     0.017107
+month          0.004619

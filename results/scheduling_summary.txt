@@ -1,0 +1,5 @@
+﻿Scheduling Summary
+Total baseline carbon (g): 232075557.25
+Total carbon-aware carbon (g): 92830222.9
+Total savings (g): 139245334.35
+Savings (%): 60.0
